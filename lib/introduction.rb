@@ -1,3 +1,3 @@
-def inroduction(name, language)
+def inroduction(name)
 puts "Hi, my name is #{name}.\n"
 end
